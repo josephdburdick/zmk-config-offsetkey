@@ -69,4 +69,4 @@ manifest:
       revision: main
     - name: zmk-board-eyelash
       remote: a741725193
-      revision: main
+      revision: v4.0
