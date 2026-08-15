@@ -8,10 +8,6 @@
 
 #include <input/processors.dtsi>
 #include <zephyr/dt-bindings/input/input-event-codes.h>
-#include <behaviors/toggle_io.dtsi>
-#include <behaviors/on_io.dtsi>
-#include <behaviors/off_io.dtsi>
-#include <input/processors.dtsi>
 #include <behaviors.dtsi>
 #include <behaviors/runtime-sensor-rotate.dtsi>
 #include <dt-bindings/zmk/bt.h>
