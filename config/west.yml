@@ -8,8 +8,8 @@ manifest:
       url-base: https://github.com/cormoran
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: englmaxi
-      url-base: https://github.com/englmaxi
+    - name: tokyo2006
+      url-base: https://github.com/tokyo2006
     - name: a741725193
       url-base: https://github.com/a741725193
   projects:
@@ -65,7 +65,7 @@ manifest:
     - name: zmk-feature-kscan-diagnostics
     # ---- third-party helpers still needed by this firmware ----
     - name: zmk-dongle-display
-      remote: englmaxi
+      remote: tokyo2006
       revision: main
     - name: zmk-board-eyelash
       remote: a741725193
